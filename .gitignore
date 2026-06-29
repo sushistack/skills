@@ -1,0 +1,9 @@
+# bmad
+_bmad
+
+# AI Agents
+.claude
+.agents
+
+# macOS
+.DS_Store
