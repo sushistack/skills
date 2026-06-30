@@ -7,3 +7,5 @@ _bmad
 
 # macOS
 .DS_Store
+
+*.zip
